@@ -6,6 +6,6 @@ Basic XAI analyses, related to ResponsibleML blog series
 - [Python](https://github.com/kozaka93/basic_xai/tree/main/Introduction/Python)
 
 ### Permutation-based variable importance 
-- [R]
-- [Python]()
+- [R](https://github.com/kozaka93/basic_xai/tree/main/Permutation-based%20variable%20importance/R)
+- [Python](https://github.com/kozaka93/basic_xai/tree/main/Permutation-based%20variable%20importance/Python)
 
