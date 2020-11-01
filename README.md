@@ -1,6 +1,11 @@
 # BASIC XAI
 Basic XAI analyses, related to ResponsibleML blog series
 
-### Introduction
+### Introduction - [blog](https://medium.com/responsibleml/basic-xai-with-dalex-part-1-introduction-e68f65fa2889)
 - [R](https://github.com/kozaka93/basic_xai/tree/main/Introduction/R)
 - [Python](https://github.com/kozaka93/basic_xai/tree/main/Introduction/Python)
+
+### Permutation-based variable importance 
+- [R]
+- [Python]()
+
