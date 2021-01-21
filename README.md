@@ -13,7 +13,7 @@ Basic XAI analyses, related to ResponsibleML blog series
 - [R](https://github.com/kozaka93/basic_xai/tree/main/Partial%20Dependence%20Profile/R)
 - [Python](https://github.com/kozaka93/basic_xai/tree/main/Partial%20Dependence%20Profile/Python)
 
-### Break Down - [blog](https://medium.com/responsibleml/basic-xai-with-dalex-part-5-shapley-values-85ceb4b58c99)
+### Break Down - [blog](https://medium.com/responsibleml/basic-xai-with-dalex-part-4-break-down-method-2cd4de43abdd)
 - [R](https://github.com/kozaka93/basic_xai/tree/main/Break%20Down/R)
 - [Python](https://github.com/kozaka93/basic_xai/blob/main/Break%20Down/Python)
 
