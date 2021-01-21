@@ -12,3 +12,19 @@ Basic XAI analyses, related to ResponsibleML blog series
 ### Partial Dependence Profile
 - [R](https://github.com/kozaka93/basic_xai/tree/main/Partial%20Dependence%20Profile/R)
 - [Python](https://github.com/kozaka93/basic_xai/tree/main/Partial%20Dependence%20Profile/Python)
+
+### Break Down
+- [R]()
+- [Python]()
+
+### Shapley values
+- [R]()
+- [Python]()
+
+### LIME
+- [R]()
+- [Python]()
+
+### Ceteris Paribus
+- [R]()
+- [Python]()
